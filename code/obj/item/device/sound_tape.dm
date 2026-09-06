@@ -157,7 +157,7 @@ TYPEINFO(/obj/item/sound_tape/lightbreaker)
 /obj/item/sound_tape/ling_recording
 	name = "Human Steve's mixtape"
 	desc = "A recording of the merchant \"Human Steve\" singing... Oh dear."
-	activation_sound = "sound/voice/creepyshriek.ogg"
+	activation_sound = 'sound/voice/creepyshriek_recording.ogg'
 	ammo = 1
 	ammo_max = 1
 
